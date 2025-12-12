@@ -1,15 +1,16 @@
-#🌞 SolarBright Energy – Clean & Sustainable Power Website
+# 🌞 SolarBright Energy – Clean & Sustainable Power Website
 SolarBright is a modern, clean, and fully responsive solar energy website designed to promote awareness about renewable energy and help users calculate their energy savings with solar solutions.
 The website includes multiple fully designed pages such as Home, Services, Calculator, and Contact.<br>
 
-#Tech Stack
+# Tech Stack 
+<br>
 1)HTML5<br>
 2)CSS3 <br>
 3)JavaScript<br>
 4)Bootstrap Icons<br>
 
 
-#Preview
+# Preview
 <img width="1348" height="649" alt="Screenshot (95)" src="https://github.com/user-attachments/assets/c64ba77c-f26e-419c-84c1-36494eeb8df0" />
 <img width="1366" height="635" alt="Screenshot (97)" src="https://github.com/user-attachments/assets/045b367d-fdf7-49eb-a01e-7f61a37a4af2" />
 <img width="1366" height="637" alt="Screenshot (98)" src="https://github.com/user-attachments/assets/9c74d1fe-da35-4b31-85b3-a17355e3dc43" />
